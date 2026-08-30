@@ -13,5 +13,3 @@ services:
         - "1212:80"
       depends_on:
         - mysqldb
-      
-    
